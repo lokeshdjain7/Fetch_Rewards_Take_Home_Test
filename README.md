@@ -2,18 +2,18 @@
 
 Solutions of Fetch Reward Take Home Test
 
-First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
+1. Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 
 Solution: ER diagram.png
 
-Second: Write queries that directly answer predetermined questions from a business stakeholder
+2. Write queries that directly answer predetermined questions from a business stakeholder
 
 Solutions: SQL_queries.pdf
 
-Third: Evaluate Data Quality Issues in the Data Provided
+3. Evaluate Data Quality Issues in the Data Provided
 
 Solution: Data Quality Checks-checkpoint.iypnb
 
-Fourth: Communicate with Stakeholders
+4. Communicate with Stakeholders
 
 Solution: communicate_with_stakeholders.pdf
